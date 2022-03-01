@@ -1,0 +1,104 @@
+id: cc52e365682d45ea934ab0583b419d97
+annotation_type: Segment
+revision: '00001'
+annotations:
+  e3045db8f14c423f98b9c68844683ff9:
+    span:
+      start: 0
+      end: 2
+    metadata: {}
+  61f7a727c7444f00bab88d574cc25ffd:
+    span:
+      start: 5
+      end: 6
+    metadata: {}
+  8d651f44a1f740718308313cb3461828:
+    span:
+      start: 9
+      end: 10
+    metadata: {}
+  067a088e84ec4efa878773a71fce50fa:
+    span:
+      start: 13
+      end: 14
+    metadata: {}
+  425a123a11b0491cbb0a2ac82211e7f8:
+    span:
+      start: 17
+      end: 18
+    metadata: {}
+  5ad3867ca88b4fc8a70099050a61ec9c:
+    span:
+      start: 21
+      end: 22
+    metadata: {}
+  0a8d5be891f14724abc4854303602abd:
+    span:
+      start: 25
+      end: 27
+    metadata: {}
+  4c7beeda69e74e1d81157fabc2f74221:
+    span:
+      start: 30
+      end: 31
+    metadata: {}
+  db739e6ef4fc494a8e9a728e9586a8fe:
+    span:
+      start: 34
+      end: 37
+    metadata: {}
+  25e621450697470da5b47f0459db2663:
+    span:
+      start: 40
+      end: 43
+    metadata: {}
+  88809a5b435c47efab3ce89b044f2c78:
+    span:
+      start: 46
+      end: 52
+    metadata: {}
+  f5e99bd98e204f93be52d7b4ce38292d:
+    span:
+      start: 55
+      end: 60
+    metadata: {}
+  90784e71b51c428da05c2c939ed5b047:
+    span:
+      start: 63
+      end: 66
+    metadata: {}
+  166d288f2c234807b15cfe54f7cee70f:
+    span:
+      start: 69
+      end: 75
+    metadata: {}
+  7a9c90bd706544a48252b3aae3806af1:
+    span:
+      start: 78
+      end: 78
+    metadata: {}
+  8a33a89039144657a8029c3f83f937a7:
+    span:
+      start: 81
+      end: 83
+    metadata: {}
+  50d6a15665594126a79950c9e1c971fe:
+    span:
+      start: 86
+      end: 87
+    metadata: {}
+  4a7768e47a864f04b1ffb0cfc6498ca1:
+    span:
+      start: 90
+      end: 91
+    metadata: {}
+  145aea8e07744f3382fcb5b8d102cfab:
+    span:
+      start: 94
+      end: 95
+    metadata: {}
+  d9bc75c3d4d44cc9871e246cc826f684:
+    span:
+      start: 98
+      end: 101
+    metadata: {}
